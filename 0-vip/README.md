@@ -1,3 +1,4 @@
+https://blog.csdn.net/kongxx/article/details/73173762
 使用 keepalived 设置虚拟 IP 环境
 准备
 
